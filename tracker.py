@@ -2,7 +2,7 @@ import time
 import sqlite3
 from tools import get_summoner_id, get_league_entries, get_current_game
 
-API_KEY = "RGAPI-145cab65-6579-49fa-b5b8-84319b4c2dbf"
+API_KEY = ""
 REGION = "euw1"  # Change this to the appropriate region
 
 # Initialise la connexion à la base de données
